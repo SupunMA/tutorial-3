@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">IntentsProj</string>
+    <string name="number_1">Number 1</string>
+    <string name="number_2">Number 2</string>
+    <string name="nim">-</string>
+    <string name="num">*</string>
+    <string name="num2">/</string>
+    <string name="nu3">+</string>
+    <string name="textview">TextView</string>
 </resources>
